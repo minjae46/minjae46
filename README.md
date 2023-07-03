@@ -20,9 +20,6 @@
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 ![minjae46's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae46&show_icons=true&theme=graywhite)
 
 <div align="center">
