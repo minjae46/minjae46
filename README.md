@@ -18,6 +18,6 @@
 
 
 <br/><br/>
-![minjae46's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae46&show_icons=true&theme=graywhite)
+<!-- ![minjae46's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjae46&show_icons=true&theme=graywhite) -->
 
 <div align="center">
